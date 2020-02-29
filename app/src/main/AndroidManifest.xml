@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mobquid.iitdo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:replace="android:icon">
+        <activity
+            android:name=".activities.HomeActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.EventsActivity" />
+        <activity android:name=".activities.NewsActivity" />
+        <activity
+            android:name=".activities.InvestmentOpportunitiesActivity"
+            android:label="@string/title_activity_investment_opportunities"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".activities.OpportunityActivity"
+            android:label="@string/title_activity_opportunity"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".activities.FDIEventsActivity" />
+        <activity android:name=".activities.AwardsAchievementsActivity" />
+        <activity android:name=".activities.KeyPeopleActivity" />
+        <activity android:name=".activities.JoinIITDOActivity" />
+        <activity android:name=".activities.PhotoGalleryActivity" />
+        <activity android:name=".activities.AllPhotosActivity" />
+        <activity android:name=".activities.FullScreenImageActivity" />
+        <activity android:name=".activities.InformationalActivity" />
+        <activity android:name=".activities.NewsLetterActivity" />
+        <activity android:name=".activities.MembersActivity" />
+        <activity android:name=".activities.ContactActivity"></activity>
+    </application>
+
+</manifest>

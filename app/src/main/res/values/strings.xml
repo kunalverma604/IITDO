@@ -1,0 +1,440 @@
+<resources>
+    <string name="app_name">IITDO</string>
+    <string name="tequila_name">Indian International Trade Development Organisation</string>
+    <string name="tequila_tagline">भारतीय अंतर्राष्ट्रीय व्यापर विकास संगठन</string>
+    <string name="tequila_title">Indian International Trade Development Organisation</string>
+    <string name="lorem">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula sem a malesuada rhoncus. Pellentesque ut dolor a dui porttitor porta lacinia non libero. Nunc volutpat arcu quis quam convallis molestie. Etiam ac tristique sem, id commodo justo. Phasellus congue tincidunt lectus, at dignissim ligula maximus eu. Quisque interdum nunc eget tellus bibendum suscipit. Phasellus feugiat ultricies posuere. Nullam porta accumsan velit, ut rutrum massa fermentum eu. Nunc ac bibendum nunc. Mauris eu ultricies ipsum. Ut id dolor dui. Pellentesque dictum dui vel tempus maximus. Vivamus non nisi quis libero scelerisque pretium. Ut eu tristique justo. Sed pellentesque placerat quam, ut ultricies turpis feugiat a. Aliquam a volutpat risus.
+
+Praesent at lectus semper, suscipit elit in, facilisis massa. Phasellus sed vestibulum ante, a euismod sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin tincidunt orci augue, a porta odio lacinia eu. Nunc in congue risus. Maecenas commodo nibh ac enim fermentum, eu sagittis massa blandit. Vestibulum elementum massa nec dapibus mollis. Etiam porta, est sit amet aliquet porta, odio elit finibus risus, id rutrum purus mi non ipsum. Nulla viverra nec enim sed venenatis.
+
+Maecenas mattis, erat et viverra euismod, neque diam porttitor tellus, in fringilla metus est id augue. Nunc at metus cursus, porttitor nisi vitae, congue diam. Curabitur ligula massa, ullamcorper eget scelerisque vel, pharetra ac sapien. Ut auctor luctus ultricies. Nullam semper tortor ac elementum luctus. In et tempus ex. Praesent sodales, dolor id volutpat elementum, ligula enim euismod odio, maximus sodales magna neque nec neque. Curabitur pretium nisl neque, consequat aliquet dui tincidunt ac. Vivamus augue nunc, aliquet eu ex a, ultrices aliquam lorem. Duis nibh lectus, ultricies vel iaculis sit amet, imperdiet id sapien. Duis scelerisque sodales metus eu rutrum. Suspendisse posuere nisi ac magna consequat, eu vestibulum ipsum venenatis. Suspendisse auctor nisi nec leo venenatis tristique.
+
+Praesent tincidunt lorem sit amet mi consequat cursus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent vitae blandit sapien. Curabitur est sapien, lobortis sit amet facilisis vel, faucibus eu quam. Nam tempus libero at tellus tempor laoreet. Pellentesque quam lorem, tincidunt in molestie eget, dictum vel risus. Nunc gravida convallis mattis.
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="action_okay">OKAY</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="cust_organization_name">Indian International Trade Development Organization</string>
+    <string name="cust_office_address">503A, Prabhat Kiran Building,\n
+    Rajendra Place,\n
+    New Delhi – 110008\n
+    </string>
+    <string name="cust_office_contact_number">(+91)-11-47463456</string>
+    <string name="cust_office_email"> iitdoindia@gmail.com, info@iitdo.org</string>
+    <string name="cust_office_web">www.iitdo.org</string>
+
+    <string name="fdi_input_text_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vehicula sem a malesuada rhoncus. Pellentesque ut dolor a dui porttit</string>
+    <string name="fdi_input_text_2">Praesent at lectus semper, suscipit elit in, facilisis massa. Phasellus sed vestibulum ante, a euismod sem. Interdum et malesuada fames</string>
+
+    <string name="categories_1">Home</string>
+    <string name="categories_2">About</string>
+    <string name="categories_3">Sectors</string>
+    <string name="categories_4">Services</string>
+    <string name="categories_5">International</string>
+    <string name="categories_6">Events</string>
+    <string name="categories_7">Membership</string>
+    <string name="categories_8">States</string>
+    <string name="categories_9">Publications</string>
+    <string name="categories_10">Contact Us</string>
+
+    <string-array name="country_list">
+        <item>India</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="packages_list_india">
+        <item>Diamond (1,00,00,000 INR)</item>
+        <item>Platinum (50,00,000 INR)</item>
+        <item>Gold (5,00,000 INR)</item>
+        <item>Corporate(1,00,000 INR)</item>
+        <item>Business (50,000 INR)</item>
+        <item>Ordinary (25,000 INR)</item>
+        <item>Student (1,000 INR)</item>
+    </string-array>
+
+    <string-array name="packages_list_others">
+        <item>Diamond (2,00,000 USD)</item>
+        <item>Platinum (1,00,000 USD)</item>
+        <item>Gold (20,000 USD)</item>
+        <item>Corporate (2,000 USD)</item>
+        <item>Business (1,000 USD)</item>
+    </string-array>
+
+    <string name="subcategories_about_1">About Us</string>
+    <string name="subcategories_about_2">Mission &amp; Vision</string>
+    <string name="subcategories_about_3">Patrons, Advisors &amp; Chairman(Country/State)</string>
+    <string name="subcategories_about_4">Board Members</string>
+    <string name="subcategories_about_5">IITDO Boards</string>
+
+    <string name="subcategories_sectors_1">Foreign Trade Development Board</string>
+    <string name="subcategories_sectors_2">Agriculture and Food Processing Board</string>
+    <string name="subcategories_sectors_3">Finance and Taxation Board</string>
+    <string name="subcategories_sectors_4">Legal &amp; IPR Board</string>
+    <string name="subcategories_sectors_5">Arts &amp; Culture Board</string>
+    <string name="subcategories_sectors_6">Education &amp; HRD Board</string>
+    <string name="subcategories_sectors_7">Metals &amp; Minerals Board</string>
+    <string name="subcategories_sectors_8">IT &amp; Infrastructure Board</string>
+    <string name="subcategories_sectors_9">Sports &amp; Youth Affairs Board</string>
+    <string name="subcategories_sectors_10">Health &amp; Wellness Board</string>
+    <string name="subcategories_sectors_11">Defense &amp; Safety Board</string>
+    <string name="subcategories_sectors_12">Media &amp; Entertainment Board</string>
+
+    <string name="subcategories_services_1">Research &amp; Report</string>
+    <string name="subcategories_services_2">Arbitration Facilitation</string>
+    <string name="subcategories_services_3">B2B</string>
+    <string name="subcategories_services_4">CSR</string>
+    <string name="subcategories_services_5">Business Development</string>
+    <string name="subcategories_services_6">Workshop &amp; Seminar</string>
+    <string name="subcategories_services_7">Networking</string>
+    <string name="subcategories_services_8">Program &amp; Initiative</string>
+    <string name="subcategories_services_9">Skills Development</string>
+    <string name="subcategories_services_10">Women Entrepreneurship</string>
+
+    <string name="subcategories_international_1">Asia</string>
+    <string name="subcategories_international_2">Africa</string>
+    <string name="subcategories_international_3">Australia</string>
+    <string name="subcategories_international_4">Europe</string>
+    <string name="subcategories_international_5">Middle East</string>
+    <string name="subcategories_international_6">North America</string>
+    <string name="subcategories_international_7">South America</string>
+
+    <string name="subcategories_events_1">Past Events</string>
+    <string name="subcategories_events_2">Future Events</string>
+
+    <string name="subcategories_membership_1">Directory</string>
+    <string name="subcategories_membership_2">Join Us</string>
+
+    <string name="subcategories_publications_1">Photo Gallery</string>
+    <string name="subcategories_publications_2">Press Release</string>
+    <string name="subcategories_publications_3">Knowledge Partner</string>
+    <string name="subcategories_publications_4">News Letter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_events">EventsActivity</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_investment_opportunities">InvestmentOpportunitiesActivity</string>
+    <string name="title_activity_opportunity">OpportunityActivity</string>
+
+    <string name="fragment_home_about_body">Organisation of India and International people who promotes the values of Vasudhaiva Kutumbakam “वसुधैव कुटुम्बकम”a Sanskrit phrase that means that the whole world is one single family. \n \n
+        Organisation believes on“Development of trade with strong values &amp; strong network”.\n \n
+        IITDO represents &amp;provide platform to organisation and individuals for developing strong network, updating new information, knowledge, skills, products and services, market information etc, time to time with a focus on small entrepreneurs &amp; start-ups for their sustainable development in the international supply chain &amp; for positive contribution towards nation’s growth.\n \n
+        Organisation will impart necessary skills and knowledge to inspire, motivated and enable entrepreneurs to harness opportunity globally and develop a strong network who will be contributing towards Innovative, Digital, Clean, Skilled &amp; developed India.\n \n
+        IITDO supports business and industry by working closely on government policy &amp; government Initiatives &amp; encouraging debate, engaging with policy makers and civil society and bridge the gap between trade requirements and government initiatives and  create and sustain a conducive environment to the development of India by partnering industry, Government, and civil society, through advisory and consultative processes.\n \n
+        IITDO Extends its agenda beyond business &amp; assists industry to undertake programs on “Social Responsibilities Initiatives”. Enhancing awareness as well as involvement of member in various social and environmental causes. Partnerships with civil society organizations carry forward corporate initiatives for integrated and inclusive development across diverse domains including, environment, affirmative action, healthcare, education, livelihood, skill development, empowerment of women, and water and develop a strong network who will  be contributing towards Innovative, Digital, Clean, Skilled &amp; developed  India.</string>
+
+    <string name="long_text_about_us">Organisation of India and International people who promotes the values of Vasudhaiva Kutumbakam “वसुधैव कुटुम्बकम”a Sanskrit phrase that means that the whole world is one single family.\n \n
+        Organisation believes on“Development of trade with strong values &amp; strong network”.\n \n
+        IITDO represents &amp; provide platform to organisation and individuals for developing strong network, updating new information, knowledge, skills, products and services, market information etc, time to time with a focus on small entrepreneurs &amp; start-ups for their sustainable development in the international supply chain &amp; for positive contribution towards nation’s growth.\n \n
+        Organisation will impart necessary skills and knowledge to inspire, motivated and enable entrepreneurs to harness opportunity globally and develop a strong network who will be contributing towards Innovative, Digital, Clean, Skilled &amp; developed India.\n \n
+        IITDO supports business and industry by working closely on government policy &amp; government Initiatives &amp; encouraging debate, engaging with policy makers and civil society and bridge the gap between trade requirements and government initiatives and  create and sustain a conducive environment to the development of India by partnering industry, Government, and civil society, through advisory and consultative processes.\n \n
+        IITDO Extends its agenda beyond business &amp; assists industry to undertake programs on “Social Responsibilities Initiatives”. Enhancing awareness as well as involvement of member in various social and environmental causes. Partnerships with civil society organizations carry forward corporate initiatives for integrated and inclusive development across diverse domains including, environment, affirmative action, healthcare, education, livelihood, skill development, empowerment of women, and water and develop a strong network who will  be contributing towards Innovative, Digital, Clean, Skilled &amp; developed  India.
+    </string>
+
+    <string name="long_text_mission_vision">
+        As a leading organization, we actively engaged our business community to be the driving force for progress. We collaborate nationally and internationally to develop most prosperous business community for world peace. IITDO support overseas business community to find reliable counterpart in India for their business interest. A platform where local government, private citizens and businesses are working together to provide innovative solutions for the challenges facing the country as it grows.Organization initiate every opportunity to share resources, information and network to ensure the quality of life continues. IITDO works together as an integrated team, accountable for our actions and objectives and focused on creating organizational excellence and celebrating successes with our partners.\n\n
+        IITDO mission is to leads business community towards economic growth, advocates pro-business climates, provide vital programs and services, establishes and executes healthy, vibrant business community vision. By working together and focusing on initiatives that support growth, members use services of the IITDO as an important catalyst for their business success. Let’s come together to foster and a thriving business community and a prosperous country through visionary leadership and collaboration.\n\n
+            > INNOVATION – We commit to consistently explore new ways to add value to our stakeholders. We are future-focused, creative, and responsive to emerging trends and changing member needs.\n
+            > EXCELLENCE – We commit to always seek to be the best that we can be.\n
+            > INCLUSIVITY – We commit to create a collaborative environment where everyone is important and has value to add.\n
+            > ACCOUNTABILITY – We commit to take personal responsibility for what we do and what we say we are going to do.\n
+            > INTEGRITY – We commit that all of our actions, big or small, will be conducted in an honest and ethical manner.\n
+            > COLLABORATION – We value the diversity of our business and nonprofit community and encourage participation, inclusion, and collaboration.\n
+            > CONNECTION – We connect people, community, resources, and commerce.\n
+            > EMPOWERMENT – We encourage and support our members’ personal and professional growth through shared resources and educational opportunities.\n
+            > PEACE – Make a better world with humanity and mankind.\n
+    </string>
+
+    <string name="long_text_sectors_1">
+        India has been recognized globally as a preferred investment &amp; business destination, and this has resulted in increased interest of foreign businesses to invest &amp; trade in the country. In order to promote and increase bilateral trade and encourage joint ventures between Indian and foreign businesses, the Foreign Trade Development Board was established. The Board aims to give a proper guidance to exporters, importers and foreign investors and ensure a continuous dialogue with governments &amp; non – government organization on measures for providing an International trade enabling environment and to create a framework to generate Investment &amp; business opportunities for the betterment and boosting growth of the country. The Board serves as a wide platform to understand and explore business opportunities in the country.\n\n
+        <b>The aims of the Board:-</b>\n\n
+            > To help local &amp; regional companies to expand their customer base into international markets by providing access, resources, business opportunities and connections to generate exports and economic growth.\n
+            > To assist foreign trade missions visiting India to find and connect with country based suppliers of goods and services.\n
+            > To facilitate international firms’ investment and job growth in the country by building strategic partnerships with public and private sectors to help secure successful enterprises.\n
+            > To provide a forum for members to better understand, develop and promote constructive federal, state and local public policies that are important to the advancement of international trade.\n
+            > To arrange inbound &amp; outbound business delegations.\n
+            > Promoting MOUs with overseas trade organizations.\n
+            > Export, Import &amp; grievances board for interaction with the Customs Dept.\n
+            > Sending trade promotion delegations abroad with government incentives.\n
+            > Participation and joint programs with other parallel trade organization &amp; government trade bodies etc.\n
+            > Organize seminars and conferences for EXIM matters.\n
+            > Connects Indian companies to resources, helping them understand market trends, promoting opportunities and collaboration.\n
+    </string>
+
+    <string name="long_text_sectors_2">
+        IITDO has its own Agriculture &amp; Food Processing Board to identify and provides representation at the national &amp; the international level on issues which have an agricultural &amp; food (agro-food) perspective. It seeks to influence key decision-makers to ensure that legislation is created and implemented in a manner that is beneficial to the agricultural, farmers welfare, food processors etc.\n\n
+        Board promotes and helps to educate our community about agriculture. Every year the board organizes several interactive programs, a showcase of the impact agriculture has on the economy. The board also hosts speakers to help &amp; educate our community on different agriculture related topics.\n\n\
+        We partner with local public, private and civil organizations to share knowledge to improve agricultural practices, livelihoods, health, and nutrition. The Board also facilitates agriculture sector to generate better momentum in the next few years due to increase in investments in agricultural infrastructure such as irrigation facilities, agro machineries, warehousing and cold storage etc.\n\n
+        The Board has been strenuously working on agriculture policies. Over the years, considerable efforts have been put into devising policies &amp; suggestions that would increase farm income, productivity and global competitiveness of Indian agriculture. IITDO has played a pivotal role in defining the agri-policy framework of the nation.\n\n
+        The IITDO established Board to provide a forum for open discussion on the issues facing the food business sectors in India, in particular the shared issues facing the country space. IITDO has large forum in the food sector for facilitating growth and development in the country.\n\n
+
+        The objectives of Agricultural &amp; Food Processing Board are:-\n\n
+            > Identify major bottlenecks that hinder the growth of Indian agriculture.\n.
+            > Address the government policies relating to production, procurement, pricing and distribution, rising Minimum Support Prices, ineffective subsidy system, regulated domestic markets, lack of infrastructure facilities, low productivity, low value addition, ad hoc export policies and suggest suitable measures.\n.
+            > Define measures to attain a higher trajectory growth in agriculture in order to compete in the global market.\n
+            > Help members to sustain and grow food business trade within country and overseas.\n
+            > To support members find ways to work together beyond border to grow food business space outside of the country.\n
+            > To help promote training, research, science and innovation in the food business for the benefit of the members &amp; farmers.\n
+            > Risk management and communication in the food sector.\n
+            > Sanitary and phytosanitary obstacles to trade.\n
+            > Discriminatory taxation in the agro-food sector.\n
+            > Sustainable international trade of food related products.\n
+            > Regulatory &amp; Legal Affairs – Need to change the approach to food laws and regulatory structure.\n
+            > Trade Facilitation – Focusing on promoting Indian Food business locally and globally through various trade facilitation measures.\n
+            > To provide best platform for the overseas business to market their food products in the country.\n
+            > Capacity Building- Recognizing the need to enhance industry knowledge on international and domestic regulation and quality standards.\n
+        IITDO partner with the farmers to help them in exporting their agriculture products at world level and getting revenue to increase their standard of living.\n
+        The Board also takes initiative to focus on those businesses that have to do with agriculture &amp; food, both in increasing their customer base and improving their sustainability. We do that through education on how to improve things in their operation so that they can reach more people, through networking and helping each other. We want to draw more agri businesses into the organization, but also give them a sense that they matter. It gives them a voice.\n\n
+        IITDO has also been facilitating its members to participate in exhibition/seminars to showcase their products and represent globally.
+    </string>
+
+    <string name="long_text_sectors_3">
+        The Financial &amp; Taxation Board of the IITDO is to bring together the members involved in the financial services industry with the goal of becoming the premier forum for members in the country including the corporate houses, asset management, investment banking, private equity, venture capital, hedge fund, wholesale and retail banking, wealth management, and insurance industries. This will be mainly achieved by way of leadership events allowing members to connect, keep on top of the latest developments and share ideas.\n\n
+        The Board with expertise in finance-related fields uses their collective knowledge to develop policy on finance and taxation issues that are brought forward by other members. This board considers issues related to tax policies and statutes, budget and fiscal policies, and positions &amp; programs that affect businesses in the country.\n\n
+        IITDO’s Board is the voice of micro, small, medium and multinational companies on issues relating to taxation, financial regulation and actively engaged in cooperation with government, public organizations and industries.\n\n
+        The goals of the Board:-\n\n
+            > Keep members informed on current and new taxation regulations.\n
+            > Pro-actively advocating tax law, regulation and policies that benefits country based businesses.\n
+            > Provide timely and reliable tax information and services to IITDO members.\n
+            > Proving a forum for members to effectively share tax knowledge, experience and to actively participate in developing pro business finance and tax initiatives.\n
+            > Forming alliances with other business association to support pro business finance &amp;  tax initiatives.\n
+            > Guiding the members in adopting finance &amp;  tax policy, positions that encourage sound economic growth and business investment in our country.\n
+        Financial &amp;  Taxation Board aims to facilitate a comprehensive forum for dialogue between India Inc. and policy makers thereby aiming to provide necessary directions to all stake holders and business processes\n
+    </string>
+
+    <string name="long_text_sectors_4">
+        The Board is actively involved in discussion and debate around various issues related to legal, business law, governance and competition law, patent law, intellectual properties law and has undertaken several initiatives in this area along with the IITDO members.\n\n
+        The Legal &amp; IPR Board advocates for a business competitiveness framework within our legal system. We examine prominent issues that have limited, continue to limit fair and equal administration of the law, negatively impacting Indians and our economy. \n\n
+        Our goal is to raise awareness about frivolous legal proceedings and put forward recommendations that positively reform regulatory bodies, legislatures and the courts in order to strengthen country overall competitiveness.\n\n
+        The Boards involvements:-\n\n
+            > Promotion of our Judiciary as country’s Global Legal Redressal Center.\n
+            > Providing advice to government &amp;  its Institution on the drafting of legislation and regulation that promotes a competitive business environment in India.\n
+            > Keep members informed on business and corporate laws regulations.\n
+            > To arrange a platform where members of law firm and lawyer can meet, share ideas, network and develop ideas in the legal field to proactively promote the development of opportunities within the country and with overseas.\n
+            > Protection of intellectual properties, business and related concern.\n
+        The IITDO also suggests policy/regulatory changes to address these issues and acts as a bridge between the policymaker/regulator and industry participants for development of business in India.\n
+    </string>
+
+    <string name="long_text_sectors_5">
+        India is rich in its culture, art, heritage and most important in its history in the world. The Cultural Board’s mission is to maintain, promote and expand cultural ties of India with rest of the world. The Board gathers programs with a rich cultural background, in which they share and exchange ideas to promote the regional, national &amp;  international culture.\n\n
+        The Board’s activities are also aimed to orient them towards standards of equality, justice and a humanist culture.  These activities are held throughout the year and eminent people in their respective fields are invited from all over India and abroad to take part in these programs.\n\n It aims at supporting sustainable cultural initiatives and actively supporting different cultural celebrations including performing distinguish activities.\n
+            1. Local theatrical arts\n
+            2. Literature, dance, music, painting, cinema and other fine arts\n
+            3. History and philosophy of science \n
+            4. Cultural responses to globalization\n
+            5. Ecology and environment \n
+            6. Culture, religion and philosophy \n
+            7. Functional knowledge of local and foreign languages &amp;  many more.\n
+            8. Create meaningful events and opportunities for children, youths and youngsters to connect and experience the diverse arts and culture community in the country.\n
+    </string>
+
+    <string name="long_text_sectors_6">
+        The Board has been and will remain engaged in education policy. Education make today’s students are tomorrow’s human resources of the nation. IITDO recognizes education as a pillar that supports a healthy and thriving economy of the country.\n\n
+        The Educational &amp;  HRD Board facilitates networking, communication and planning among educational institutions and human resources to develop more talent in our country. Board members include business, nonprofit, and educational institutions which advocate for human resource readiness initiatives that benefit students from all backgrounds. Board offer a forum for supportive engagement between businesses and education service providers to align educational and economic development objectives focused on cross-sector collaboration for improved outcomes.\n\n
+        The Board developing opportunity to youngsters to learn how to be more moralist, effective, successful, entrepreneurs and human being. The Board offers a unique combination of networking, learning, skills building, overseas skills developing programs and giving back to the community. The IITDO will advise you on your training, skills building needs and point you in the right direction for workshops and seminars.\n\n
+        The Board involvements:-\n\n
+            > Facilitate communications between community and educational leaders in order to raise education attainments, encourage youngster’s preparedness, and elevate the quality of life in the country’s community.\n
+            > Responsible to implements skills development programs to raise the ability and create better human resources.\n
+            > Improve knowledge and skills to develop business and employment.\n
+            > Regular arrangement of motivational workshops &amp;  seminars for youngster to make their morale and goals stronger.\n
+            > Provide leadership training programs through partnership with colleges/universities and other professional leadership trainers to develop individual skills, abilities make a better country with better human resources.\n\n
+        We work shoulder-to-shoulder with training provider across the county in a range of different sectors and industries. This allows us to deliver up to date and relevant skills workshops &amp;  programs that improving the skills of youngster is crucial to securing a stronger economy for country.\n
+    </string>
+
+    <string name="long_text_sectors_7">
+        Board objective is enhancing capacities to achieve sustainable development objectives through good governance in the metals &amp;  minerals sectors. It is devoted to optimizing the benefits of metals &amp;  minerals to achieve infrastructure, inclusive growth, create employments, social development and environmental stewardship.\n\n
+        A key role of the Board is to facilitate interaction among metals &amp;  minerals company to examine policy issues and other matters of mutual concern to crystallize and define desirable industry standpoints. A variety of initiatives are in place to promote collaboration between members, government, overseas mining company &amp;  investors.\n\n
+        The Board team provides input on matters affecting investment in the country mining industry and issues facing the mining industry which have an economic impact. Its function includes collating and analyzing data and information on behalf of the industry, and advising industry on responses and positioning in respect of critical issues.\n\n
+        The Board is charged with ensuring environmental issues are addressed in a manner that enhances members’ contribution to sustainable development and ensures that risks to the viability of the mining industry are identified and managed.
+        The Board initiatives:-\n\n
+            > Arranges conferences where government representatives can exchange ideas, explore best practices and engage with industry and civil   organization.\n
+            > In-country assessments.\n
+            > Guidance business assessments.\n
+            > Capacity building training on metals &amp;  minerals and sustainable development issues.\n
+            > Individualized technical assistance to developing training or guidance on particular topics.\n
+            > To improve the professional image and standing of IITDO member companies within the Metals and Minerals Inspection and Testing Industry with clients and official bodies.\n
+            > To provide a single point of contact between companies within the industry and with external bodies (clients, government agencies, standards organizations etc.) in order to project the collective views and experience of the industry.\n
+            > To develop and promote technical standards within the industry that are driven by a clear industry need and which fall outside the current scope of ISO / ASTM projects.\n
+            > To provide an open forum for members to discuss and resolve important inspection and testing issues.\n
+            > To attract new member companies into IITDO membership and to the Metals and Minerals Board.\n\n
+        IITDO serves as a unique global venue for dialogue in the country and overseas, metals &amp;  minerals companies, industry associations and civil organization.\n
+    </string>
+
+    <string name="long_text_sectors_8">
+        The Board is responsible for leading the implementation of information technology to further establish and promote real need of digital India policy and focusing the expansion of information technology to rural level as well. Board also promotes IT education, workforce development, IT research and development, and collaborations among government, business and academic entities.  The Board also works to improve the IT industry by working to find investment from the state, government and FDI from overseas business.\n\n
+        The purpose behind the IT board is to positively increase the opportunities available for IT firms. This could be accomplished through recognizing and acknowledging the disparities, bringing awareness to the issues, and developing partnerships with national &amp;  international IT firms, state government agencies, and supporting organizations to strategically identify the areas of opportunities and implement changes for improvement.\n\n
+        On the other hand Board also says that country’s businesses depend on sound transportation &amp;  infrastructure in order to move products and materials. A strong infrastructure network is vital to our economic competitiveness and should remain a top priority for the business community.\n\n
+        The Transportation &amp;  Infrastructure Board analyzes issues and advocates for its policies and projects government institutions that make efficient use of resources on transportation &amp; infrastructure. The Board is comprised of IITDO members working in the manufacturing, Robust IT connectivity and digitalization, public transit, rail, trucking, conferences, offices, smart cities, Sustainable environment, Safety and security of citizens, particularly women, children and the elderly. Health, education and other industries that rely on transportation &amp;  infrastructure.\n\n
+        <b>The IT Board motives:-</b>\n\n
+            > To provide Information Technology well-organized, robust and strong IT community to offer dedicated and quality support to India’s long term IT development by working on a common set of topics related to IT businesses operating in India.\n
+            > To contribute to the improvement of IT education in order to improve the skills of employees and graduates.\n
+            > To create a knowledge-based community, researches, shares its knowledge and experience together.\n
+            > To cooperate and provide information to IT-related companies.\n
+            > To consider and report on matters of its concern in the fields of transportation and infrastructure.\n
+            > To recommend action for the adoption of IITDO policy.\n
+            > To initiate the preparation of policy reviews, analyses, and reports on transportation and infrastructure policy issues.\n
+        To ensure the transportation system, infrastructure supports quality and an improved community that is supportive of business, while maintaining progressive growth in economy.\n
+
+    </string>
+
+    <string name="long_text_sectors_9">
+        Youth are the pillar of strength of any nation. To facilitate the welfare and all round development of the youth, Youth &amp;  sports has been given a big thrust by the government of the country. The mission of the IITDO to lead the sports arena by creating high quality infrastructure, promoting a sports culture and harnessing talent at the grass root level with partner (government &amp;  non-government organization).\n\n Its objective is to provide one platform to educated and talented youths to promote, education, sports, welfare programs, educational seminars, sports activities, internship, skills &amp;  development programs etc. to encourage children of all schools, youths &amp;  youngsters to develop their competitive skills.\n\nYuva Shakthi has as its slogan – “Arise, Awake, Achieve” that signifies the objectives of the Organization more profoundly:\n\n
+            > Toarouse the potential personality in the youth \n
+            > Toawaken their social conscience and \n
+            > To strive toachieve a Better India through Better Youth \n
+        To guide, facilitate and overall development of the youth is the mission of the organization. The immense resources of youth, if galvanized, can work as a major force of socio-economic change. It is therefore needed to create increasing opportunities for them to develop their personality and their functional capacity and thus make them economically productive and socially responsible.\n
+    </string>
+
+    <string name="long_text_sectors_10">
+        Health &amp;  Wellness Board engaged with government &amp;  non-government organization to help &amp;  educate health procedures and protocols in the country. Building health &amp;  safety including women, children &amp;  family through mentally alert awareness on water they drink, the food they eat, the medicines &amp; vaccinations they use and how to control pollution etc.  IITDO promotes the ethical medical practices to curb the unlawful and painful practices in the society. It focuses specially on overall wellness by way of best health practices like yoga, pranayam, natural way uplifting the people’s life. The Board with its partners who will provide assistance with any kind of health issues through regular and various health programs. Wellness is not only a goal for women, children and families involved, but also for professionals and the organizations in which they work. Strives to build better and safer life standard in the country. Sustainable environment is important for everyone, people, animals and other living things.\n\n
+        <b>Goals of the Health &amp;  Wellness:-</b>\n\n
+            > To promoting, and improve the wellbeing of mother, children and their families through education and awareness program\n
+            > To coordinate the implementation of health education programmes aimed addressing health and wellness issues of the community.\n
+            > To conduct sensitization and awareness campaigns for community on various health and wellness matters.\n
+            > Promote Our Hon’ble Prime Minister initiative “Swatch Bharat Abhiyan”.\n
+        The Health and Welfare Board seeks to promote holistic wellness (physical, mental, spiritual, economic, political, and social) for individuals and communities by equipping united methodists in the prevention, treatment, and advocacy of health kits, hospital revitalization programs, and safety measures.\n
+
+    </string>
+
+    <string name="long_text_sectors_11">
+        Defense and Security Board engaged with government &amp;  non-government organization to help &amp;  educate people about security concerns in society and awareness on preventive measures. We also promote to adopted best defense practices in the world. IITDO research, analyze and advice to government (if required) to various best defense practices in the world with the support of Indian and Overseas members and international experts. We also motivate &amp;  felicitates our brave soldiers (Police and Armed Forces both) who stood behind us in the hour of need.\n\n
+        The other task of the Board is to deal with matters concerning conscription, the defence, security, legislation concerning exceptional circumstances as well as those aspects of peacekeeping operations. The Board examines ongoing operations, partnerships and programs to find how IITDO can continually improve its effectiveness as an alliance. \n\n
+        <b>The Board overall objectives:- </b>  \n\n
+            > Protect against instability and intra and inter nation conflict and aggression.\n
+            > Develop a collective security capacity \n
+            > Develop a national &amp;  international peacekeeping capacity\n
+            > Prevent, contain and resolve inter-and intra-nation conflict by peaceful means\n
+            > Consider enforcement action in accordance with international law and as a matter of last resort where peaceful means have failed \n
+            > Promote co-operation &amp; common political value systems &amp;  institutions to deal with cross border peace.\n
+            > Develop common foreign policy approaches on issues of mutual concern \n
+            > Encourage &amp;  monitor international arms control/disarmament conventions &amp; treaties\n
+            > Co-ordinate participation in peace operations \n
+            > Address extra national conflicts which impact on the nation \n
+        The Board also represents the interests of businesses in both the defence and security sectors.  Through regular committee meetings and numerous defence and security focused events; the defence and security group attracts senior and influential businesses from these sectors.\n\n
+        The Board promotes and supports the people and missions of Indian military by working with the local military installations, the aerospace and defense industries, and other business representatives. The Board gathers companies that are both producers and users in the field of security and defence. It contributes to the defence and works to promote cooperation on research, interoperability and common technical standards across national and international as well as the adoption of the best available technologies, irrespective of their origins. It also establishes links in these areas between IITDO member companies and relevant Indian policy-makers.\n
+    </string>
+
+    <string name="long_text_sectors_12">
+        Board contributes its existence in assisting in policy decisions and helping to scale up the industry through various initiatives. It includes issues for overall growth of media &amp;  entertainment industry as a responsible member of society &amp;  serves a vital link between the media &amp;  entertainment industry, Information &amp;  Broadcasting Ministry and global interests in this vibrant sector.\n\n
+        <b>Mission</b>\n\n
+            > Proactively engage with the Government on matters affecting these sectors.\n
+            > To arrange interacting session with media &amp;  entertainment industry to understanding their needs.\n
+            > To promote, develop and stimulate the growth of the Media and Entertainment Industry for the achievement of international co-operation, peace and prosperity.\n
+            > To ensure that the Government lays down the right policies and passes the right legislations to provide the latest infrastructure, financial assistance and business facilities to Media and Entertainment Industry in India and other countries of the world.\n
+            > To continuously strive for and defend the freedom of expression of the Media and Entertainment Industry\n
+    </string>
+
+
+    <string name="long_text_services_1">
+        The research &amp;  report services bring a wide range of research and information, including private data subscription; we fulfilled research requests for our members, from sole proprietors to our largest corporations. IITDO objectives is to keep members and the business community updated with the latest economic development and regulations, business opportunities, facilities and relevant business contacts through well documented materials. Focused research provides powerful insight into your staff, customers, competitors and stakeholders. It enables you to make better, more informed business decisions and ultimately gives you the edge.\n\n
+        Good research involves asking the right questions of the right people, while good strategy anticipates the future. It transports you from where you are to where you want to be.\n\n
+        <b>Research &amp;  Report areas:-</b>\n
+            > Market’s \n
+            > Products &amp;  Services \n
+            > Sectorals \n
+            > Trade \n
+            > Macroeconomic \n
+            > Business Opportunities \n
+    </string>
+
+    <string name="long_text_services_2">
+    Commercial disputes are common place worldwide. Be it unpaid invoices, product quality problems or outright fraud. Anyone doing business must stay alert in case of potential financial losses due to such hazards. However, badly managed disputes can destroy precious business relationships, take up valuable management resources and cost a great deal of money. Avoiding a lengthy and expensive litigation is often in the best interest of all parties. This is especially true, when the amounts of money involved are not very high and court action would cost more than the claim.\n\n
+    IITDO providing arbitration services for the resolution of disputes between parties through arbitration, mediation, conciliation and other forms of alternative dispute resolution.\n\n
+    Our vision to be the provider of choice for “Out-of-Court” dispute resolution services based on the highest standards of integrity, trust and service excellence.\n\n
+    <b>Mission of Arbitration service:-</b>\n\n
+        > To deliver creative, out-of-court dispute resolution approaches in an independent, ethical, timely, confidential and cost effective manner.\n
+        > To provide a trusted cadre of dedicated and experienced mediators, arbitrators and other neutral professionals, facilitators and support resources, committed to delivering high quality innovative approaches to mediation, arbitration and other modes of dispute resolution, complemented by advanced training and outreach programs.\n
+    </string>
+
+    <string name="long_text_services_3">
+        B2B service is to help its members to develop Indian business and trade with rest of the world. Under this B2B services IITDO will facilitate and proactively promote bilateral trade, collaborations, tie-ups and strategic alliance amongst others with special emphasis on finding suitable business partners.\n\n
+        This B2B initiative from IITDO is rendered free of cost to all members enrolled and IITDO will strive to serve its member to meet their objectives.\n\n
+        This B2B will power the SMEs to grow their business and develop linkages with potential business partner.\n
+    </string>
+
+    <string name="long_text_services_4">
+        IITDO recognise that it must invest in building the necessary human capacity required in the economic and business environment to meet the expectations of our stakeholders – government, private sector and all citizens.\n\n
+        Building human capacity is very critical to the achievement of IITDO vision which is “to Promote and protect the interests of its members and the business community at large through public policy advocacy, creation and facilitation of commercial and industrial opportunity, provision of business development and services and observance of highest standard of business ethics”.\n
+        <b>The key areas of CSR includes:</b>\n\n
+            > Mentorship programmes for young entrepreneurs.\n
+            > Provision of free information, technical assistance and business services for SMEs.\n
+            > Education endowment fund for selected technical collage institutions.\n
+            > Industrial training programmes for undergraduates.\n
+            > Fee professional lectures to undergraduates in selected tertiary institutions.\n
+            > Provision of free incubation centres for new SMEs owned by women and young people.\n
+    </string>
+
+    <string name="long_text_services_5">
+        Whether you are looking for help with marketing, access to business finance, trading internationally, advice on employing staff or developing a Business Plan, the IITDO will be able to point you in the right direction.\n\n
+        Some issues are universal; others are specific to your area. Here at the IITDO, we understand them all and have an excellent range of business support services that both members can access.\n\n
+            > Get advice when starting a new business \n
+            > Advice &amp;  advocacy \n
+            > Communication &amp;  networking \n
+            > Talk to experts if you’re thinking about exporting \n
+            > Meet an adviser to discuss your growth plans \n
+            > Find out what grants and funding is available in your area \n
+            > Make your website work harder with the skills of a web master \n
+        Whether you are a new business start up or an established firm keen to grow, we are here to help. If you can’t find what you are looking for, please get in touch IITDO team.\n
+    </string>
+
+    <string name="long_text_services_6">
+        Workshops &amp;  seminar program has been developed to assist businesses of all levels and industries, education institute and student. IITDO brings members the latest business information and best practices, from professionals who are leaders in their field. We offer workshops and seminars throughout the year, with topics such as: marketing, sales, navigating legal issues, preparing for retirement and business succession planning, human resource management, healthcare reform and understanding insurance plans, essentials for business start-ups, entrepreneurs, students and more. \n\n
+        IITDO regularly schedules seminars and workshops to provide timely information on topics to help businesses, entrepreneurs, students and non-profits in today’s business environment. Topics range from marketing tips and utilization of the latest communication technologies, updates and tips on new human resource regulations and guidelines, training &amp;  skills development, developing a strategic plan, navigating and maintain a rapidly changing environment.\n\n
+    </string>
+
+    <string name="long_text_services_7">
+        Widely recognized for our high profile events in exclusive venues with leading speakers, corporate houses, diplomat, government official &amp;  bureaucrats where businesses have opportunity to attend tons of B2B networking events each year, including special interest group events, training events, member-run events and the opportunity to be part of an extensive international trade mission programs.\n\n
+        Grow your business contacts through business networking, aimed to provide the perfect platform for you to build business contacts, learn from informative keynote speakers and listen to the needs of the business community.\n\n
+        Meet like-minded business people across all sectors and sizes, build relationships and open your business up to the capital’s largest business network.
+
+    </string>
+
+    <string name="long_text_services_8">
+        IITDO is promoting the initiative done by government is supported, encouraged and aware. We also take this responsibility seriously to supports a number of community initiatives and continue to look for new opportunities and ideas. Below are just some of the initiatives government have either started or wholly support as good work that benefits the country &amp;  its community as a whole.\n\n
+        > Make in India \n
+        > Start-up India \n
+        > Stand-up India \n
+        > Digital India \n
+        > Incredible India \n
+        > Skill India \n
+        > Smart City Mission \n
+        > Swachh Bharat Abhiyan \n
+    </string>
+
+    <string name="long_text_services_9">
+        IITDO regards the development of skills and young people in the country, as a precondition of building for sustainable economic growth in the country.\n\n
+        The IITDO supports training &amp;  skills development in various ways:\n
+            > Through the activities of IITDO.\n
+            > Sharing information relating to skills, training and vocational educational workshop &amp;  seminar.\n
+            > Encouraging our students to participate in skills development schemes.\n
+        Our Board involved with education &amp;  human resource development initiative to develop young people skills, efficiency &amp;  their morals to create new entrepreneurs and generate better employment. We have welcomed groups of students to some of our networking evenings.\n\n
+        Do you want to talk to us about skills and training initiatives? Please get in touch IITDO team.\n
+    </string>
+
+    <string name="long_text_services_10">
+        The country is home to a rich and vibrant community of innovators. As part of an ongoing strategy to foster this growing culture of entrepreneurship, the IITDO offers these resources as a starting place for you to begin building your new business. Starting your own business is an exciting and challenging journey. IITDO supports entrepreneurs, no matter if you still look make your dream become a reality or search for ways to grow your small business. And don’t forget to check out the IITDO’s events calendar listing of networking and educational events for entrepreneurs as well as small business owners.\n\n
+        IITDO Encouraging Women Entrepreneurs:\n\n
+        Women are increasingly making their presence felt in business activities. The IITDO has established a separate service where women entrepreneurs get an opportunity to meet and discuss matters of relevance. The IITDO functions as the secretariat for these activities and coordinates with the relevant governmental agencies and departments to facilitate their business activities.\n\n
+        The main objective is to develop and encourage the women entrepreneurs in the country. The IITDO performs the following function.\n
+            > Resolve the problems women face while operating their business such as getting loans from the banks, developing contacts with various government departments. It educates the women entrepreneurs about the techniques and strategies of national and international marketing and aimed at increasing involvement of women entrepreneurs in national economic activities.\n
+            > Organizes business orientation programs, workshops and lectures for the guidance of old and new women entrepreneurs and enhancing quality consciousness. It also holds business awareness seminars like how to start new business and how to export their products in other countries.\n
+            > Organizes platforms to showcase the products &amp;  services manufactured by women entrepreneurs. These platforms acts as a source of great encouragement for women entrepreneurs and also provide a networking for introduction and promotion of their products &amp;  services.\n
+            > Co-ordinates and facilitates trade delegations of women entrepreneurs visiting abroad.
+    </string>
+
+
+    <string name="long_text_international_1">Coming Soon</string>
+    <string name="long_text_international_2">Coming Soon</string>
+    <string name="long_text_international_3">Coming Soon</string>
+    <string name="long_text_international_4">Coming Soon</string>
+    <string name="long_text_international_5">Coming Soon</string>
+    <string name="long_text_international_6">Coming Soon</string>
+    <string name="long_text_international_7">Coming Soon</string>
+
+
+</resources>
