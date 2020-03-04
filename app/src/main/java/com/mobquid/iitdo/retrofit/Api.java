@@ -7,7 +7,7 @@ public class Api {
     public static ApiInterface getClient() {
 
         RestAdapter adapter = new RestAdapter.Builder()
-                .setEndpoint("https://cybittech.com/website/")
+                .setEndpoint("http://iitdo.org/kunal/domains/")
                 .build();
 
         ApiInterface api = adapter.create(ApiInterface.class);

@@ -24,7 +24,7 @@ public interface ApiInterface {
     @FormUrlEncoded
     @POST("/get_board_members.php")
     void getBoardMembers(
-            @Field("member_type") String member_type,
+            @Field("sector") String sector,
             Callback<BoardMembersResponse> callback);
 
     @FormUrlEncoded
@@ -50,6 +50,10 @@ public interface ApiInterface {
     @GET("/get_slider_images.php")
     void getSliderImages(
             Callback<SliderImagesResponse> callback);
+
+    @GET("/get_key_people.php")
+    void getKeyPeople(
+            Callback<BoardMembersResponse> callback);
 
     @GET("/get_fdi.php")
     void getFDI(

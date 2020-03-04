@@ -46,7 +46,7 @@ public class BoardMembersFragment extends Fragment {
     }
 
     public void fetchBoardMembers() {
-        Api.getClient().getBoardMembers("Board Members", new Callback<BoardMembersResponse>() {
+        Api.getClient().getBoardMembers("2", new Callback<BoardMembersResponse>() {
             @Override
             public void success(BoardMembersResponse boardMembersResponse, Response response) {
                 membersList = boardMembersResponse.getBoardMembersResponses();

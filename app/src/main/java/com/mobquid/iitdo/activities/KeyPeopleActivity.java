@@ -35,9 +35,8 @@ public class KeyPeopleActivity extends AppCompatActivity {
         actionBar.setTitle("Key People");
         setContentView(R.layout.activity_key_people);
         ButterKnife.bind(this);
-        keyPeopleTl.addTab(keyPeopleTl.newTab().setText("Patrons, Advisors & Chairman"));
-        keyPeopleTl.addTab(keyPeopleTl.newTab().setText("Board Members"));
-        keyPeopleTl.addTab(keyPeopleTl.newTab().setText("IITDO Broads"));
+        keyPeopleTl.addTab(keyPeopleTl.newTab().setText("Executive Boards"));
+        keyPeopleTl.addTab(keyPeopleTl.newTab().setText("Advisors & Country Heads"));
         keyPeopleTl.setTabGravity(TabLayout.GRAVITY_FILL);
 
         keyPeoplePagerAdapter = new KeyPeoplePagerAdapter(keyPeopleTl.getTabCount(), getSupportFragmentManager());
@@ -65,9 +64,8 @@ public class KeyPeopleActivity extends AppCompatActivity {
         @Override
         public CharSequence getPageTitle(int position) {
             switch (position){
-                case 0: return "Patrons, Advisors & Chairman";
-                case 1: return "Board Members";
-                case 2: return "IITDO Broads";
+                case 0: return "Executive Boards";
+                case 1: return "Advisors & Country Heads";
                 default: return null;
             }
         }
@@ -81,9 +79,6 @@ public class KeyPeopleActivity extends AppCompatActivity {
                 case 1:
                     BoardMembersFragment tab2 = new BoardMembersFragment();
                     return tab2;
-                case 2:
-                    BoardsFragment tab3 = new BoardsFragment();
-                    return tab3;
                 default:
                     return null;
             }

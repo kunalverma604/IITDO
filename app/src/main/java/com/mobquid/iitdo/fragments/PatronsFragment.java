@@ -48,7 +48,7 @@ public class PatronsFragment extends Fragment {
     }
 
     public void fetchDataFromServer() {
-        Api.getClient().getBoardMembers("Patrons, Advisors & Chairman", new Callback<BoardMembersResponse>() {
+        Api.getClient().getBoardMembers("1", new Callback<BoardMembersResponse>() {
             @Override
             public void success(BoardMembersResponse boardMembersResponse, Response response) {
                 membersList = boardMembersResponse.getBoardMembersResponses();

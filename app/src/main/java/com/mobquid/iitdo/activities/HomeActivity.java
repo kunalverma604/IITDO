@@ -221,27 +221,29 @@ public class HomeActivity extends AppCompatActivity implements AppBarLayout.OnOf
                             Intent membersIntent = new Intent(getApplicationContext(), MembersActivity.class);
                             Bundle bundle = new Bundle();
                             bundle.putString("category", "about");
-                            bundle.putString("subcategory", "Patrons, Advisors & Chairman");
+                            bundle.putString("sector", "1");
                             bundle.putInt("subcategoryat", 2);
                             membersIntent.putExtras(bundle);
                             startActivity(membersIntent);
-                        } else if (childPosition == 3) {
+                        }
+                        else if (childPosition == 3) {
                             Intent membersIntent = new Intent(getApplicationContext(), MembersActivity.class);
                             Bundle bundle = new Bundle();
                             bundle.putString("category", "about");
-                            bundle.putString("subcategory", getResources().getString(R.string.subcategories_about_4));
-                            bundle.putInt("subcategoryat", 3);
-                            membersIntent.putExtras(bundle);
-                            startActivity(membersIntent);
-                        } else if (childPosition == 4) {
-                            Intent membersIntent = new Intent(getApplicationContext(), MembersActivity.class);
-                            Bundle bundle = new Bundle();
-                            bundle.putString("category", "about");
-                            bundle.putString("subcategory", getResources().getString(R.string.subcategories_about_5));
+                            bundle.putString("sector", "2");
                             bundle.putInt("subcategoryat", 3);
                             membersIntent.putExtras(bundle);
                             startActivity(membersIntent);
                         }
+//                        else if (childPosition == 4) {
+//                            Intent membersIntent = new Intent(getApplicationContext(), MembersActivity.class);
+//                            Bundle bundle = new Bundle();
+//                            bundle.putString("category", "about");
+//                            bundle.putString("subcategory", getResources().getString(R.string.subcategories_about_5));
+//                            bundle.putInt("subcategoryat", 3);
+//                            membersIntent.putExtras(bundle);
+//                            startActivity(membersIntent);
+//                        }
                         break;
                     case (2):
                         if (childPosition == 0) {
@@ -558,7 +560,7 @@ public class HomeActivity extends AppCompatActivity implements AppBarLayout.OnOf
         about.add(getResources().getString(R.string.subcategories_about_2));
         about.add(getResources().getString(R.string.subcategories_about_3));
         about.add(getResources().getString(R.string.subcategories_about_4));
-        about.add(getResources().getString(R.string.subcategories_about_5));
+        // about.add(getResources().getString(R.string.subcategories_about_5));
 
         // Subcategories -- Sectors
         List<String> sectors = new ArrayList<String>();

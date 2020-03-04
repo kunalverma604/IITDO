@@ -41,11 +41,11 @@ public class MembersActivity extends AppCompatActivity {
         ButterKnife.bind(this);
 
         String cateogry = getIntent().getExtras().getString("category");
-        String subcateogry = getIntent().getExtras().getString("subcategory");
+        String sector = getIntent().getExtras().getString("sector");
         int subcategoryat = getIntent().getExtras().getInt("subcategoryat");
-        actionBar.setTitle(subcateogry);
+        actionBar.setTitle("Board Members");
 
-        getAllMembers(subcateogry);
+        getAllMembers(sector);
     }
 
     @Override
@@ -54,8 +54,8 @@ public class MembersActivity extends AppCompatActivity {
         return true;
     }
 
-    private void getAllMembers(String member_type) {
-        Api.getClient().getBoardMembers(member_type, new Callback<BoardMembersResponse>() {
+    private void getAllMembers(String sector) {
+        Api.getClient().getBoardMembers(sector, new Callback<BoardMembersResponse>() {
             @Override
             public void success(BoardMembersResponse boardMembersResponse, Response response) {
                 membersList = boardMembersResponse.getBoardMembersResponses();

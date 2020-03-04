@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".activities.FDIEventsActivity">
 
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/fdi_events_rv"
+    <TextView
+        android:id="@+id/fdi_inputs_tv"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-    </android.support.v7.widget.RecyclerView>
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_15sdp"
+        android:textColor="@color/colorPrimaryDark"
+        android:fontFamily="@font/chivo_regular"
+        android:lineSpacingExtra="2dp"
+        android:textSize="@dimen/_13sdp"
+        />
 
-</android.support.constraint.ConstraintLayout>
+</ScrollView>
